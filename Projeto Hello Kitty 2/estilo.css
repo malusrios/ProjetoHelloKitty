@@ -1,0 +1,26 @@
+body {
+    background: #abd3ee url(stars.gif);
+     }
+
+
+#menu {
+
+    background-color: #dddbdb;
+    padding: 15px;
+    width: 990px;
+   font-weight: bold;
+   border:rgb(216, 216, 216);
+   text-shadow: black;
+      }
+
+a   { color: black;
+    text-decoration: none;
+    }
+
+#conteudo {
+    background-color: #abd3ee;
+}
+
+
+
+
